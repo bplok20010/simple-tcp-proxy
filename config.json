@@ -1,0 +1,6 @@
+{
+	"LOCAL_PORT": 10002,
+	"REMOTE_PORT": 3306,
+	"REMOTE_ADDR": "101.150.xx.6",
+	"W_IP": "210.21.xxx.xxx,127.0.0.1"
+}
